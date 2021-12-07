@@ -1,2 +1,13 @@
 # videogame-stats-web-scrapper
-A personal project that utilizes VBA/Excel to scrap game data and perform various analyses. I created this to track and augment my game progression in Paladins: Champions of the Realm, by Hirez Studios.
+
+## About Paladins Guru Scraper
+
+WIP!
+
+`Paladins Guru Scraper` is a fun, open-source, personal project Python web scraper that pulls game statistics out of PaladinsGuru.com, performs data analyses, and exports it onto an interactive webpage.
+
+This is based off of an old VBA/Excel version of the same project that I did for myself many years ago when I played the game.
+
+## Screenshots
+![Image1](https://user-images.githubusercontent.com/74934154/144986359-8dd4ce46-45c3-4229-a82f-1dc536bc6075.png)
+
