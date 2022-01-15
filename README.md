@@ -4,7 +4,7 @@
 
 WIP!
 
-`Paladins Guru Scraper` is a fun, open-source, personal project Python web scraper that pulls game statistics out of PaladinsGuru.com, performs data analyses, and exports it onto an interactive webpage.
+`Paladins Guru Scraper` is a personal project Python web scraper that pulls game statistics out of PaladinsGuru.com, performs data analyses, and exports it onto an interactive webpage.
 
 This is based off of an old VBA/Excel version of the same project that I did for myself many years ago when I played the game.
 
