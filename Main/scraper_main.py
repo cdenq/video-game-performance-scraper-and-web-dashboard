@@ -8,11 +8,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 executable_path = {'executable_path': ChromeDriverManager().install()}
 browser = Browser('chrome', **executable_path, headless=False)
 
-with open('Input/URL.txt', 'r') as input_data:
+with open('../Input/URL.txt', 'r') as input_data:
     for line in input_data:
         url = line
 
-with open('Input/Champions List.txt', 'r') as input_data:
+with open('../Input/Champions List.txt', 'r') as input_data:
     all_champs = [line.strip() for line in input_data]
 
 browser.visit(url)
