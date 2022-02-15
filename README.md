@@ -1,5 +1,4 @@
-# videogame-stats-web-scrapper
-
+# video-game-performance-scraper-and-web-dashboard
 ## About Paladins Guru Scraper
 
 WIP!
