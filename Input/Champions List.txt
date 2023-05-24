@@ -3,8 +3,10 @@ Androxus
 Atlas
 Azaan
 Barik
+Betty La Bomba
 Bomb King
 Buck
+Caspian
 Cassie
 Corvus
 Dredge
@@ -18,15 +20,18 @@ Imani
 Inara
 Io
 Jenos
+Kasumi
 Khan
 Kinessa
 Koga
 Lex
 Lian
+Lillith
 Maeve
 Makoa
 Mal'Damba
 Moji
+Nyx
 Octavia
 Pip
 Raum
@@ -44,6 +49,7 @@ Torvald
 Tyra
 Vatu
 Viktor
+VII
 Vivian
 Vora
 Willo
